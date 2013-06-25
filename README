@@ -1,4 +1,3 @@
-
 [alias]
 	cl = clone
 	co = checkout
@@ -18,6 +17,7 @@
 	
 [merge]
 	tool = vimdiff
+	merge.defaultToUpstream = true
 
 [color]
     	ui = auto
