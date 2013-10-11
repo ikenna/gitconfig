@@ -17,7 +17,6 @@
 	
 [merge]
 	tool = vimdiff
-	merge.defaultToUpstream = true
 
 [color]
     	ui = auto
@@ -45,3 +44,7 @@
 
 [push]
 	default = simple
+	
+[user]
+	user.name=Ikenna Nwaiwu
+	user.email=ikenna4u@gmail.com
